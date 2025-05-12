@@ -1,31 +1,43 @@
-# XaSeK.github.io
-# GitHub.io Page
+# 🛒 PHP E-Shop Store XaSeK
 
-Welcome to my personal website hosted on [GitHub Pages](https://pages.github.com/)!
+A simple and functional E-commerce web application built using **PHP** and **Bootstrap**. This project allows users to browse products, manage a shopping cart, and place orders.
 
-## 🧭 About This Site
+---
 
-This site is built to:
+## 🚀 Features
 
-- Showcase my personal and professional projects 🛠️
-- Share blogs, tutorials, or notes 📝
-- Serve as a digital portfolio 💼
-- Experiment with front-end tools and technologies ⚙️
+- User registration and login
+- Product catalog with categories
+- Shopping cart system
+- Responsive UI using HTML/CSS (Bootstrap)
+- Basic input validation and session handling
 
-Feel free to explore the source code or visit the live site:
+---
 
-🔗 **Live Site**: [https://teo003.github.io](https://teo003.github.io)
+## 🛠️ Tech Stack
 
-## 💡 Features
+- **Backend:** PHP
+- **Database:** MySQL
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Libraries/Frameworks:** Bootstrap
 
-- Responsive design for all screen sizes 📱💻
-- Built with [HTML/CSS/JS]
-- Projects dynamically listed from your GitHub repos
-- Deployed with GitHub Pages
+---
 
-## 📝 License
-This project is open source and available under the GPL-3.0 License.
+## 📦 Installation
 
-## 🙌 Acknowledgments
-Thanks to:
-- GitHub Pages
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/teo003/eshop-php.git
+   cd eshop-php
+
+---
+
+## 🔒 Security Notes
+- Always sanitize user inputs to avoid SQL injection.
+- Use HTTPS in production.
+- Add CSRF protection and improve password hashing (e.g., password_hash).
+
+---
+
+## 📜 License
+This project is licensed under the GNU GPL v3.0 License.
