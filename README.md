@@ -1,2 +1,2 @@
-# E-Shop-via-PhP
-It's a Polski Shop created via PhP and Bootstrap with cameras
+Login Id: yugeshverma@gmail.com
+Password:123456
