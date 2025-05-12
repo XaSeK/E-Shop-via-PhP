@@ -1,4 +1,4 @@
-# 🛒 PHP E-Shop Store XaSeK
+# 🛒 PHP E-Shop Store XaSiK
 
 A simple and functional E-commerce web application built using **PHP** and **Bootstrap**. This project allows users to browse products, manage a shopping cart, and place orders.
 
